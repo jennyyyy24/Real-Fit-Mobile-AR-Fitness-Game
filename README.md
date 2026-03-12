@@ -79,12 +79,6 @@ RealFit gamifies exercise by using your device's camera and Google ML Kit's pose
 - Device with camera capability
 - Good lighting for optimal pose detection
 
-### Installation
-1. Clone the repository
-2. Run `flutter pub get` to install dependencies
-3. Configure Supabase credentials in your environment
-4. Run `flutter run` to start the application
-
 ### First Time Setup
 1. Create an account or sign in with Google
 2. Complete the onboarding process to set your fitness goals
