@@ -94,11 +94,6 @@ RealFit gamifies exercise by using your device's camera and Google ML Kit's pose
 ## 📱 Platform Support
 
 - ✅ **Android**: Full feature support
-- ✅ **iOS**: Full feature support  
-- ✅ **Web**: Browser-based experience
-- ✅ **Windows**: Desktop application
-- ✅ **macOS**: Native Mac experience
-- ✅ **Linux**: Cross-platform desktop support
 
 ## 🎮 Game Modes
 
